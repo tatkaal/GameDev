@@ -1,0 +1,28 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl BW_metal
+Ns 99.999988
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /home/infodev/Desktop/Models/barbwire_obj/barbwire_obj/barbwire2_barbwire_nmap.jpg
+map_Kd /home/infodev/Desktop/Models/barbwire_obj/barbwire_obj/barbwire2_barbwire_color.jpg
+map_Ks /home/infodev/Desktop/Models/barbwire_obj/barbwire_obj/barbwire2_barbwire_specular.jpg
+
+newmtl BW_piquet
+Ns 99.999988
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump /home/infodev/Desktop/Models/barbwire_obj/barbwire_obj/barbwire2_barbwire_nmap.jpg
+map_Kd /home/infodev/Desktop/Models/barbwire_obj/barbwire_obj/barbwire2_barbwire_color.jpg
+map_Ks /home/infodev/Desktop/Models/barbwire_obj/barbwire_obj/barbwire2_barbwire_specular.jpg
